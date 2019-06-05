@@ -3,13 +3,17 @@
     "displayName": "my-scripts",
     "description": "",
     "version": "0.0.1",
-    "publisher": "n",
+    "publisher": "laginha87",
     "engines": {
         "vscode": "^1.26.0"
     },
     "categories": [
         "Other"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/laginha87/vscode-my-scripts.git"
+    },
     "activationEvents": [
         "onCommand:myScripts.openScript",
         "onCommand:myScripts.openMyScripts"
