@@ -18,6 +18,14 @@
         "onCommand:myScripts.openScript",
         "onCommand:myScripts.openMyScripts"
     ],
+    "license": "MIT",
+    "extensionPack": [
+        "formulahendry.code-runner"
+    ],
+
+    "bugs": {
+        "url": "https://github.com/laginha87/vscode-my-scripts/issues"
+    },
     "main": "./out/extension",
     "contributes": {
         "commands": [
