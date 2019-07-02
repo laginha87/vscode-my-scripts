@@ -22,7 +22,11 @@
     "extensionPack": [
         "formulahendry.code-runner"
     ],
-
+    "icon": "assets/logo.png",
+    "galleryBanner": {
+        "color": "#9BBC0F",
+        "theme": "dark"
+    },
     "bugs": {
         "url": "https://github.com/laginha87/vscode-my-scripts/issues"
     },
