@@ -9,7 +9,13 @@ Open up unsaved files prefilled by templates that you define. Works great with t
 ## Usages
 
 * To confiure your scripts, choose `Open my scripts`
+* Create a new file and save it.
 
+![my_scripts](./assets/create_script.gif)
+
+* To use a script choose `Open new script`
+
+![new_script](./assets/new_script.gif)
 
 ## Change Log
 See Change Log [here](CHANGELOG.md)
