@@ -2,7 +2,7 @@
     "name": "my-scripts",
     "displayName": "my-scripts",
     "description": "",
-    "version": "0.6.0",
+    "version": "0.6.1",
     "publisher": "laginha87",
     "engines": {
         "vscode": "^1.26.0"
